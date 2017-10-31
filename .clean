@@ -1,0 +1,6 @@
+rm *~
+rm src/*~
+rm data/*~
+rm output/*~
+
+echo "All ~ removed."

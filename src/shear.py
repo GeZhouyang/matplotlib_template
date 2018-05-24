@@ -8,7 +8,6 @@ params = {'text.usetex' : True,
 
 plt.rcParams['text.latex.preamble']=[r'\usepackage{lmodern}']
 plt.rcParams.update(params)
-
     
 
 #---- define a function to plot data

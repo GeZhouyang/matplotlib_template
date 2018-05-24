@@ -8,10 +8,6 @@ params = {'text.usetex' : True,
 
 plt.rcParams['text.latex.preamble']=[r'\usepackage{lmodern}']
 plt.rcParams.update(params)
-
-e  = np.exp(1)
-pi = 3.1415926535897932
-
     
 
 #---- define a function to plot data

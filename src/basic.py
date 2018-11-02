@@ -1,8 +1,9 @@
+import sys
 import numpy as np
 from matplotlib import pyplot as plt
 
 params = {'text.usetex' : True,
-          'font.size' : 11,
+          'font.size' : 12.5,
           'font.family' : 'lmodern',
           'text.latex.unicode' : True}
 
@@ -27,7 +28,7 @@ def plot_data(ax, x0,y0, x1,y1):
     ax.get_yaxis().set_tick_params(which='both', direction='in')
 
     ax.legend([r'Data',r'Theory'],
-              frameon=False, loc=2, numpoints=1, fontsize=9)
+              frameon=False, loc=2, numpoints=1, fontsize=10)
     ax.text(0.6, 0.3, r'A trivial plot.')
     
     return ax

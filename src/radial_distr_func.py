@@ -1,3 +1,15 @@
+'''
+A simple script to calculate and plot the radial distribution function 
+of a suspension of equal hard spheres. The raw data is stored in plain
+vtk files with time indices. The output is the averaged distribution
+over all pairs. The algorithm follows roughly the two links below:
+
+http://www.physics.emory.edu/faculty/weeks//idl/gofr2.html
+https://homepage.univie.ac.at/franz.vesely/simsp/dx/node22.html#EQPCF2
+
+'''
+
+
 import sys
 import numpy as np
 from matplotlib import pyplot as plt

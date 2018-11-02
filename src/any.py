@@ -1,8 +1,9 @@
+import sys
 import numpy as np
 from matplotlib import pyplot as plt
 
 params = {'text.usetex' : True,
-          'font.size' : 11,
+          'font.size' : 12.5,
           'font.family' : 'lmodern',
           'text.latex.unicode' : True}
 

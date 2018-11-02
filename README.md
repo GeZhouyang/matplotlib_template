@@ -1,3 +1,1 @@
-# Matplotlib templates
-
-These scripts are almost trivial. The sole purpose is to save negligible time when you are in a rush.
+Just some happy little scripts that I frequently use. :thought_balloon: :boom: :relaxed:

@@ -20,7 +20,7 @@ def plot_data(ax, x0,y0,u0,v0, tname):#, x1,y1):
     ax.set_ylim(-1.4, 1.4)
 
     plt.axis('off')
-    plt.title(tname)
+    #plt.title(tname)
 
     #-- draw coords arrows
 

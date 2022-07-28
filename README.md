@@ -1,1 +1,3 @@
-Just some happy little scripts that I frequently use. :flushed: :thought_balloon: :boom: :relaxed:
+### Scientific plotting using *matplotlib*
+
+Source scripts in `src/`, data files (if needed) in `data/`, and outputs in `output/`.

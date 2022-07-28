@@ -53,7 +53,7 @@ if __name__ == '__main__':
     fig.set_size_inches(6,4)
     
     ax.set_aspect(1)
-    ax.set_title(r'Source dipole ($-\to+$)')
+    ax.set_title(r'Source dipole ($\to$)')
 
     
     ## velocity contours
